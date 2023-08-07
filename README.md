@@ -1,5 +1,5 @@
 # Spraycan_Actuator
-A Tool for Robotic Spraypainting. We used this Spraycan spraying tool for the Painting Experiments with Pinaffo - Pluvinage.
+A Tool for Robotic Spraypainting. We used this Spraycan spraying tool for the [Painting Experiments](https://third-hand.xyz/spraying-with-pinaffo-pluvinage/) with Pinaffo - Pluvinage.
 
 ## Hardware Requirements
 - A Stepper Motor (NEMA23)
